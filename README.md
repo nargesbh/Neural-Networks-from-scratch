@@ -1,4 +1,6 @@
-# Neural Network Playground
+# Neural Network 
+![NN gif](NN.gif)
+
 
 This repository contains a Python code implementation of a neural network from scratch, with various experiments and analyses. The code is designed to help you understand the fundamentals of neural networks, including different architectures, activation functions, and optimization techniques.
 
